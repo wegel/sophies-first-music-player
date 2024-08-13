@@ -1,0 +1,25 @@
+<svg height="320" width="360" xmlns="http://www.w3.org/2000/svg" >
+  <g transform="translate(-1700 -1000.5)" style="-webkit-tap-highlight-color:transparent">
+    <path fill="none" stroke="#3b4449" d="M2000 1025v25m-75 100h75m-250 0v-125" stroke-width="2" stroke-linecap="round" class="cl_wire" style="stroke-linecap:round"/>
+    <path fill="none" stroke="#3b4449" d="M25 21.875V0m0 78.125V100m0-78.125-10.937 4.687 21.874 9.375-21.874 9.375 21.874 9.376-21.874 9.375 21.874 9.375L25 78.125" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="translate(1850 1200)" style="stroke-linecap:round;stroke-miterlimit:6"/>
+    <text fill="#3b4449" font-size="16" font-weight="bold" transform="translate(1893.75 1250)" style="text-anchor:start;font:700 16px Arial"><tspan dy="-2.4">R1</tspan><tspan dy="19.2" x="0">1 kΩ</tspan></text>
+    <path fill="none" stroke="#3b4449" d="M1875 1300h75" stroke-width="2" stroke-linecap="round" class="cl_wire" style="stroke-linecap:round"/>
+    <text fill="#3b4449" font-weight="bold" font-family="Arial" font-size="16" style="text-anchor:start;font:700 16px Arial" transform="translate(1775 1008.888)"><tspan dy="7.2">GND pin</tspan></text>
+    <path fill="none" stroke="#3b4449" d="M1750 1025h75" stroke-width="2" stroke-linecap="round" class="cl_wire" style="stroke-linecap:round"/>
+    <path fill="none" stroke="#3b4449" d="M25 21.875V0m0 78.125V100m0-78.125-10.937 4.687 21.874 9.375-21.874 9.375 21.874 9.376-21.874 9.375 21.874 9.375L25 78.125" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="translate(1975 1050)" style="stroke-linecap:round;stroke-miterlimit:6"/>
+    <text fill="#3b4449" font-size="16" font-weight="bold" transform="translate(2018.75 1100)" style="text-anchor:start;font:700 16px Arial"><tspan dy="-2.4">R2</tspan><tspan dy="19.2" x="0">47 Ω</tspan></text>
+    <path fill="none" stroke="#3b4449" d="M2000 1025h-75" stroke-width="2" stroke-linecap="round" class="cl_wire" style="stroke-linecap:round"/>
+    <text fill="#3b4449" font-weight="bold" font-family="Arial" font-size="16" style="text-anchor:start;font:700 16px Arial" transform="translate(1925 1008.888)"><tspan dy="7.2">VUSB pin</tspan></text>
+    <path fill="#fff" stroke="#3b4449" d="M50 50c0-13.806-11.194-25-25-25S0 36.194 0 50s11.194 25 25 25 25-11.194 25-25" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="rotate(90 462.5 1462.5)" style="stroke-linecap:round;stroke-miterlimit:6"/>
+    <path fill="none" stroke="#3b4449" d="M25 0v25m0 75V75" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="rotate(90 462.5 1462.5)" style="stroke-linecap:round;stroke-miterlimit:6"/>
+    <path fill="#3b4449" d="M25.842 33.168h-1.684v7.32h-7.26v1.685h7.26v7.32h1.684v-7.32h7.26v-1.685h-7.26zm-8.836 27.226v1.684h16.05v-1.684z" font-size="15" transform="rotate(90 462.5 1462.5)" style="font-size:15px;font-weight:400"/>
+    <text text-anchor="middle" fill="#3b4449" font-size="16" font-weight="bold" transform="translate(1875 1075.45)" style="text-anchor:middle;font:700 16px Arial"><tspan dy="-2.4">V1</tspan><tspan dy="19.2" x="0">5 V</tspan></text>
+    <path fill="none" stroke="#3b4449" d="M1825 1150h-75" stroke-width="2" stroke-linecap="round" class="cl_wire" style="stroke-linecap:round"/>
+    <path fill="#3b4449" stroke="#3b4449" d="m0 50 12-15.225h28.818Z" stroke-width="2" stroke-linejoin="round" transform="translate(1950 1250)" style="stroke-linejoin:round"/>
+    <rect x="7" y="7" width="86.455" height="27.775" rx="5" ry="5" fill="#fff" stroke="#3b4449" stroke-width="2" transform="translate(1950 1250)"/>
+    <text x="12" y="22" fill="#3b4449" font-size="16" font-weight="bold" style="text-anchor:start;font:700 16px Arial" transform="translate(1950 1250)"><tspan dy="7.2">GP06 (D4)</tspan></text>
+    <path fill="none" stroke="#3b4449" d="M0 50h12.5m0 37.5v-75m0 20.312L50 12.5M50 0v12.5M12.5 67.188 50 87.5m0 12.5V87.5" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="matrix(0 -1 -1 0 1925 1200)" style="stroke-linecap:round;stroke-miterlimit:6"/>
+    <path fill="#3b4449" d="M1843.025 1172.069c-.523-8.719-1.696-10.748-5.525-22.069 7.89 8.977 9.06 11.006 16.35 15.819-4.84.991-7.548 2.554-10.825 6.25"/>
+    <text text-anchor="middle" fill="#3b4449" font-size="16" font-weight="bold" transform="translate(1875 1130.8)" style="text-anchor:middle;font:700 16px Arial"><tspan dy="-2.4">Q1</tspan><tspan dy="19.2" x="0">2N3904</tspan></text>
+  </g>
+</svg>
